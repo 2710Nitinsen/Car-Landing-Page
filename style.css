@@ -20,8 +20,8 @@ p {
 
 .main-div {
   width: 100%;
-  /* font-family: "Montserrat", sans-serif; */
-  font-family: Toyota_Type !important;
+  font-family: "Montserrat", sans-serif;
+  /* font-family: Toyota_Type !important; */
   background: #eeede7;
 }
 
